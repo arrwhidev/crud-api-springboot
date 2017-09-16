@@ -1,0 +1,1 @@
+INSERT INTO users (id, version, name) VALUES (default, 1, 'Arran');
